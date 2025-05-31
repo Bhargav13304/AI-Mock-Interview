@@ -1,6 +1,5 @@
 
 
-
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
@@ -63,7 +62,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/Bhargav13304/AI-Mock-Interviews.git
-cd ai_mock_interviews
+cd AI-Mock-Interviews
 ```
 
 **Installation**
